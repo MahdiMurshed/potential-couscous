@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 import { Title, Text, Anchor } from '@mantine/core';
 import useStyles from './Welcome.styles';
 
