@@ -1,3 +1,4 @@
+I was searching for a cool component library . I found mantine.dev in a reddit discussion .After checking it's doc,I thought it will be fun playing around with it.
 ## npm scripts
 
 ### Build and dev scripts
